@@ -1,4 +1,38 @@
-### Hi there 👋
+### Hi, I'm Diego 👋
+
+```const dantesc = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, PHP, Python, Java, C#, C++, ],
+  tools: [React, Node, Docker, CUDA, Bash ],
+  server_admin: ["IIS", "Tomcat", "Apache2"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<h3> 👨‍🦰 Who am I</h3>
+
+- 🤔 &nbsp; Exploring new technologies and playing with them.
+
+- 🎓 &nbsp; Studying Computer Science and Development ways.
+
+- 🧑‍💻 &nbsp; Learning about Cloud Technologies, Systems Design, Secure Systems.
+
+- 🤖 &nbsp; Development as a Job/hobbie.
+
+
+<h3>🛠 Current skills</h3>
+
+- 💻 &nbsp; Python | PHP | C# | C++ | MySQL | MariaDB | PostgreSQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery | CUDA
+
+- 🤖 &nbsp; Linux | Mac OS | Windows 
+
+
+<h3>🛠 Future skills</h3>
+
+- 🔧 &nbsp; AWS | Rust  | GO 
+
 
 <!--
 **dantesc/dantesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
