@@ -5,7 +5,7 @@
   code: [Javascript, HTML, CSS, PHP, Python, Java, C#, C++, ],
   tools: [React, Node, Docker, CUDA, Bash ],
   server_admin: ["IIS", "Tomcat", "Apache2"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing to teach me Deno-nodejs, Rust"
 }
 ```
 
